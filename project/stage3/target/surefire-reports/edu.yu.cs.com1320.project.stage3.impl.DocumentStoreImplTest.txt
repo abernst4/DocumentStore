@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: edu.yu.cs.com1320.project.stage3.impl.DocumentStoreImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.006 s <<< FAILURE! - in edu.yu.cs.com1320.project.stage3.impl.DocumentStoreImplTest
+edu.yu.cs.com1320.project.stage3.impl.DocumentStoreImplTest.testPut  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException
+	at edu.yu.cs.com1320.project.stage3.impl.DocumentStoreImplTest.testPut(DocumentStoreImplTest.java:40)
+
